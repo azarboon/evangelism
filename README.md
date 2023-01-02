@@ -1,11 +1,11 @@
 # Community related activities by Mahdi Azarboon
 I evangelize cloud best practices through various mediums:  
 
+**Featured**: I was participated in Serverless Chats podcast and shared my viewpoint about [Differing Serverless Perspectives Between Cloud Providers](https://www.serverlesschats.com/103/)  
+
 I'm an avid reader, whenever I come across an interesting material, I share it within my social circle along with a tl;dr which can be read within a minute:  
 *  [My linkedin feed](https://www.linkedin.com/in/azarboon/recent-activity/)  
 *  [My twitter](https://twitter.com/m_azarboon)  
-
-**Featured**: I was participated in Serverless Chats podcast and shared my viewpoint about [Differing Serverless Perspectives Between Cloud Providers](https://www.serverlesschats.com/103/)  
 
 Here you can find my Cloud related blog posts in chronological order:
 *   [Effective Reporting for Cloud Well-Architectured Frameworks](https://dzone.com/articles/effective-reporting-for-cloud-well-architected-ass)
@@ -26,6 +26,11 @@ Here you can find my Cloud related blog posts in chronological order:
 Here you can find my open source prjects:
 *  [Tricky tips for AWS Solutions Architect Associate certificate (concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
 *  [Boilerplate to create Serverless app powered with CI/CD](https://github.com/eficode/serverless-ops-boilerplate)
+
+Here are some of my conference talks:
+*   [DevOps 2018](https://youtu.be/tLyBInc05Tc)
+*   AWS Community Day - Frankfurt 2018
+*   TechArch Day 2018
 
 
 
