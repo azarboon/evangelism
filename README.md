@@ -3,11 +3,11 @@ I evangelize cloud best practices through various mediums:
 
 **Featured**: I was participated in Serverless Chats podcast and shared my viewpoint about [Differing Serverless Perspectives Between Cloud Providers](https://www.serverlesschats.com/103/)  
 
-I'm an avid reader, whenever I come across an interesting material, I share it within my social circle along with a tl;dr which can be read within a minute:  
+I'm an avid reader, whenever I come across an interesting material, I share it with my social circle along with a tl;dr which can be read in less than a minute:  
 *  [My linkedin feed](https://www.linkedin.com/in/azarboon/recent-activity/)  
 *  [My twitter](https://twitter.com/m_azarboon)  
 
-Here you can find my Cloud related blog posts in chronological order:
+Here you can find my Cloud / Serverless related blog posts in chronological order:
 *   [Effective Reporting for Cloud Well-Architectured Frameworks](https://dzone.com/articles/effective-reporting-for-cloud-well-architected-ass)
 *   [The Science Behind High Performing Organisations - Book Review](https://hackernoon.com/the-science-behind-high-performing-organisations-book-review-q3i3wby)
 *   [The Manager's Path by Camille Fournier - Book Review](https://hackernoon.com/the-managers-path-by-camille-fournier-book-review-iv323wvk)
