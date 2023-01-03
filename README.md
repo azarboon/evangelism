@@ -17,7 +17,7 @@ Here you can find my Cloud / Serverless related blog posts in chronological orde
 *   [Demystifying Lambda in VPC and Its Confusing Error](https://dzone.com/articles/demystifying-lambda-in-vpc-and-its-confusing-error)
 *   [What AWS Lambda Users Should Know About Azure Functions, and Vice Versa.](https://serverless.zone/what-aws-lambda-users-should-know-about-azure-functions-and-vice-versa-3b04f8aa05a0)
 *   [Lessons Learned From a Legacy Serverless App](https://dzone.com/articles/lessons-learnt-from-a-legacy-serverless-app)
-*   [How to integrate an Amazon Lex chatbot with Facebook Messenger](https://read.acloud.guru/how-to-integrate-an-amazon-lex-chatbot-with-facebook-messenger-84a3ac84161)
+*   [How to integrate an Amazon Lex chatbot with Facebook Messenger](https://medium.com/a-cloud-guru/how-to-integrate-an-amazon-lex-chatbot-with-facebook-messenger-84a3ac84161)
 *   [Worrying and promising signals from serverless community (of Germany?)](https://hackernoon.com/worrying-and-promising-signals-from-serverless-community-of-germany-1d92a2db8e2c)
 *   [Benchmarked Serverless observability tools, got very disappointed](https://hackernoon.com/benchmarked-serverless-observability-tools-got-very-disappointed-e54f5e3381bf)
 *  [Overcome X-Ray’s issue for Lambda debugging](https://hackernoon.com/overcome-x-rays-issue-for-debugging-892498b14346)
