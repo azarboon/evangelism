@@ -9,7 +9,7 @@ I'm an avid reader, whenever I come across an interesting material, I share it w
 *  [My twitter](https://twitter.com/m_azarboon)  
 
 Here you can find my blog posts in chronological order:
-*   [Demystifying Databases Systems](https://faun.pub/demystifying-databases-systems-d0261937c494)
+*   [Demystifying Database Systems](https://faun.pub/demystifying-databases-systems-d0261937c494)
 *   [Effective Reporting for Cloud Well-Architectured Frameworks](https://dzone.com/articles/effective-reporting-for-cloud-well-architected-ass)
 *   [The Science Behind High Performing Organisations - Book Review](https://hackernoon.com/the-science-behind-high-performing-organisations-book-review-q3i3wby)
 *   [The Manager's Path by Camille Fournier - Book Review](https://hackernoon.com/the-managers-path-by-camille-fournier-book-review-iv323wvk)
