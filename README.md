@@ -1,5 +1,6 @@
-# Community related activities by Mahdi Azarboon
-I evangelize cloud best practices through various mediums:  
+# Technical evangelism by Mahdi Azarboon
+
+I share knowledge about cloud best practices, serverless or anything else that might be useful for others:
 
 **Featured**: I participated in Serverless Chats podcast and shared my viewpoint about [Differing Serverless Perspectives Between Cloud Providers](https://www.serverlesschats.com/103/)  
 
@@ -7,7 +8,8 @@ I'm an avid reader, whenever I come across an interesting material, I share it w
 *  [My linkedin feed](https://www.linkedin.com/in/azarboon/recent-activity/)  
 *  [My twitter](https://twitter.com/m_azarboon)  
 
-Here you can find my Cloud / Serverless related blog posts in chronological order:
+Here you can find my blog posts in chronological order:
+*   [Demystifying Databases Systems](https://faun.pub/demystifying-databases-systems-d0261937c494)
 *   [Effective Reporting for Cloud Well-Architectured Frameworks](https://dzone.com/articles/effective-reporting-for-cloud-well-architected-ass)
 *   [The Science Behind High Performing Organisations - Book Review](https://hackernoon.com/the-science-behind-high-performing-organisations-book-review-q3i3wby)
 *   [The Manager's Path by Camille Fournier - Book Review](https://hackernoon.com/the-managers-path-by-camille-fournier-book-review-iv323wvk)
