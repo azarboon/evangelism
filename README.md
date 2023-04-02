@@ -30,6 +30,9 @@ Here you can find my open source prjects:
 *  [Tricky tips for AWS Solutions Architect Associate certificate (concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
 *  [Boilerplate to create Serverless app powered with CI/CD](https://github.com/eficode/serverless-ops-boilerplate)
 
+Here you can find my flashcards that can help you get certfied:
+*  [Prepare for Oracle Cloud Foundation Associate Certificate](https://quizlet.com/_cyrt7j?x=1jqt&i=12swe9)
+
 Here are some of my conference talks:
 *   [DevOps 2018](https://youtu.be/tLyBInc05Tc)
 *   AWS Community Day - Frankfurt 2018
