@@ -28,7 +28,7 @@ Here you can find my blog posts in chronological order:
 
 Here you can find my open source prjects:
 *  [Tricky tips for AWS Solutions Architect Associate certificate (concise cheat sheet)](https://github.com/azarboon/cheat-sheet-aws/blob/main/README.md)
-*  [Boilerplate to create Serverless app powered with CI/CD](https://github.com/eficode/serverless-ops-boilerplate)
+*  [Boilerplate to create Serverless app powered with CI/CD](https://github.com/eficode/serverless-ops-boilerplate) P.S: unfortunately my previous employer that owned the repo deleted it :(
 
 Here you can find my flashcards that can help you get certfied:
 *  [Prepare for Oracle Cloud Foundation Associate Certificate](https://quizlet.com/_cyrt7j?x=1jqt&i=12swe9)
